@@ -12,7 +12,7 @@
 <div style="display:inline-block"><br>
     <img align="center" alt="html5 icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3 icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="cypress icon" src="https://www.cypress.io/images/layouts/navbar-brand.svg">
+    <img align="center" width=70px alt="cypress icon" src="https://asset.brandfetch.io/idIq_kF0rb/idFkwwvqgX.png"> 
     <img align="center" alt="jest icon" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
     <img align="center" alt="mocha icon" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
     <img align="center" alt="chai icon" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
